@@ -1,0 +1,16 @@
+#game td {
+	width: 30px;
+	height: 30px;
+	border: 1px solid black;
+	border-radius: 50%;
+}
+
+#game td.gamer1 {
+	background: rgb(133, 210, 214);
+}
+#game td.gamer2 {
+	background: rgb(92, 10, 105);
+}
+#game td.winner {
+	border: 2px solid red;
+}

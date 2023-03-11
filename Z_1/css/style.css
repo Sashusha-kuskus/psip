@@ -1,0 +1,38 @@
+@import url('./reset.css');
+@import url('./global.css');
+
+form{
+    width: 400px;
+    margin: 0 auto;
+}
+
+.title{
+    text-align: center;
+    padding: 8px 15px;
+    background-color: black;
+    color: white;
+}
+
+.form-group{
+    margin: 5px 0;
+}
+
+label{
+    display: block;
+}
+
+input{
+    width: 100%;
+}
+
+textarea{
+    width: 100%;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 8px 15px;
+    cursor: pointer;
+}
